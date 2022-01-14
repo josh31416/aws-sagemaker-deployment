@@ -1,5 +1,3 @@
-# SageMaker Deployment Project
+### AWS SageMaker deployment project | [sagemaker-deployment-project.ipynb](https://github.com/josh31416/aws-sagemaker-deployment/blob/main/SageMaker%20Project.ipynb)
 
-The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
-
-Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
+Deployment of models using the AWS SageMaker service. This notebook is the submission for the **AWS SageMaker Deployment** module in **[Udacity's Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)**
